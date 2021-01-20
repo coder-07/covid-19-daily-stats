@@ -1,10 +1,6 @@
 # covid-19-daily-stats
-
-It is a desktop web application, that displays the day to day stats for covid cases around the globe. A User can spectate the statistics for either an individual country or the world as whole.
-
 Framework used: Vue
 
-Dependencies:
 "dependencies": {
   "axios": "^0.19.2",
   "core-js": "^3.6.4",
